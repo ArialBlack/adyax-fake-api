@@ -1,12 +1,14 @@
 {
-  "oscar": [
-    {
-      "state": 1
-    }
-  ],
-  "primes": [
-    {
-      "state": 0
-    }
-  ]
+  blocks: {
+    "oscar": [
+      {
+        "state": 1
+      }
+    ],
+    "primes": [
+      {
+        "state": 0
+      }
+    ]
+  }
 }
